@@ -8,6 +8,7 @@ function solution(str) {
       answer += x.toUpperCase();
     }
   }
+
   return answer;
 }
 
